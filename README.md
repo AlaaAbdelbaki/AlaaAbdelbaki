@@ -1,12 +1,12 @@
 # Hello 👋 I'm Alaa Abdelbaki
 
 <p style="padding:20px">
-    <h2>
+    <h3>
         Currently in an internship at <a href="https://www.swisspremiumnegoce.com/">Swiss Premium Negoce</a>  as a Flutter intern.
-    </h2>
-    <h2>
+    </h3>
+    <h3>
         I'm a software engineering student specializing in Mobile applications development at <a href="https://esprit.tn">ESPRIT</a>.
-    </h2>
+    </h3>
 </p>
 
 <p style="padding:20px">
@@ -20,15 +20,15 @@
 <p align='center'><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlaaAbdelbaki&show_icons=true&locale=en&count_private=true&theme=tokyonight&layout=compact" alt="AlaaAbdelbaki" /></p>
 
 <p style="padding:20px">
-    <h2>
+    <h3>
         💻 Currently working on SPN Cars mobile application.
-    </h2>
-    <h2>
+    </h3>
+    <h3>
          💻 Currently learning Flutter, Javascript, Python.
-    </h2>
-    <h2>
+    </h3>
+    <h3>
         📧 Contact me on <a href="mailto://alaa.abdelbaki@esprit.tn">alaa.abdelbaki@esprit.tn</a>
-    </h2>
+    </h3>
 </p>
 
 # Contact me :
@@ -101,6 +101,8 @@
     </a>
 
 </p>
+
+#
 
 <p align="center" style="padding: 20px;"> 
     <img src="https://komarev.com/ghpvc/?username=AlaaAbdelbaki&label=Profile%20views&color=0e75b6&style=flat" alt="anis-bouaziz" /> 
