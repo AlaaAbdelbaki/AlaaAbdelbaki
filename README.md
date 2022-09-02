@@ -2,7 +2,7 @@
 
 <p style="padding:20px">
     <h3>
-        Currently in an internship at <a href="https://www.swisspremiumnegoce.com/">Swiss Premium Negoce</a>  as a Flutter intern.
+        Currently working as a software engineer at <a href="https://www.swisspremiumnegoce.com/">Swiss Premium Negoce</a>  as a Flutter intern.
     </h3>
     <h3>
         I'm a software engineering student specializing in Mobile applications development at <a href="https://esprit.tn">ESPRIT</a>.
