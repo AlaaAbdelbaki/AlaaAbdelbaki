@@ -5,7 +5,7 @@
         Currently working as a software engineer at <a href="https://www.swisspremiumnegoce.com/">Swiss Premium Negoce</a>.
     </h3>
     <h3>
-        I'm a software engineering student specializing in Mobile applications development at <a href="https://esprit.tn">ESPRIT</a>.
+        I'm a former software engineering student specializing in Mobile applications development at <a href="https://esprit.tn">ESPRIT</a>.
     </h3>
 </p>
 
