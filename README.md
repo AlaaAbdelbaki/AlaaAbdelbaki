@@ -20,9 +20,9 @@
 <p align='center'><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlaaAbdelbaki&show_icons=true&locale=en&count_private=true&theme=tokyonight&layout=compact" alt="AlaaAbdelbaki" /></p>
 
 <p style="padding:20px">
-    <h3>
+<!--     <h3>
         💻 Currently working on SPN Cars mobile application.
-    </h3>
+    </h3> -->
     <h3>
          💻 Currently learning Flutter, Javascript, Python.
     </h3>
