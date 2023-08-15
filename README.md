@@ -27,7 +27,7 @@
          💻 Currently learning Flutter, Javascript, Python.
     </h3>
     <h3>
-        📧 Contact me on <a href="mailto://alaa.abdelbaki@esprit.tn">alaa.abdelbaki@esprit.tn</a>
+        📧 Contact me on <a href="mailto://alaa.abdelbaki@outlook.com">alaa.abdelbaki@outlook.com</a>
     </h3>
 </p>
 
