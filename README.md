@@ -85,7 +85,7 @@
         <img style="padding:10px" src = "https://www.thegoandroid.com/wp-content/uploads/2021/05/Untitled-10.png" height="50"/>
     </a>
     <a href="https://developer.apple.com/xcode/">
-        <img style="padding:10px" src = "https://upload.wikimedia.org/wikipedia/en/0/0c/Xcode_icon.png" height="50"/>
+        <img style="padding:10px" src = "https://developer.apple.com/assets/elements/icons/xcode-12/xcode-12-96x96_2x.png" height="50"/>
     </a>
     <a href="https://code.visualstudio.com/">
         <img style="padding:10px" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" height="50"/>
