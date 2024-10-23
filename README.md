@@ -105,5 +105,5 @@
 #
 
 <p align="center" style="padding: 20px;"> 
-    <img src="https://komarev.com/ghpvc/?username=AlaaAbdelbaki&label=Profile%20views&color=0e75b6&style=flat" alt="anis-bouaziz" /> 
+    <img src="https://komarev.com/ghpvc/?username=AlaaAbdelbaki&label=Profile%20views&color=0e75b6&style=flat" alt="alaa-abdelbaki" /> 
 </p>
