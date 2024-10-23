@@ -2,7 +2,7 @@
 
 <p style="padding:20px">
     <h3>
-        Currently working as a Flutter developer at <a href="https://www.e-butler.com/">EButler</a>.
+        A Cloud engineering student @ <a href="https://univ-avignon.fr/en/">Avignon University</a>.
     </h3>
     <h3>
         I'm a former software engineering student specializing in Mobile applications development at <a href="https://esprit.tn">ESPRIT</a>.
