@@ -46,7 +46,7 @@
         <img style="padding:10px" src = "https://brandslogos.com/wp-content/uploads/images/large/javascript-logo.png"/ width="50" />
     </a>
     <a href="https://www.mongodb.com/">
-        <img style="padding:10px" src = "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/erkxwhl1gd48xfhe2yld"/ width="50" />
+        <img style="padding:10px" src = "https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress"/ width="50" />
     </a>
     <a href="https://flutter.dev/">
         <img style="padding:10px" src = "https://www.kindpng.com/picc/m/355-3557482_flutter-logo-png-transparent-png.png"/ width="50" />
@@ -61,7 +61,7 @@
         <img style="padding:10px" src = "https://brandslogos.com/wp-content/uploads/images/large/javascript-logo.png"  height="50"/>
     </a>
     <a href="https://www.mongodb.com/">
-        <img style="padding:10px" src = "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/erkxwhl1gd48xfhe2yld"  height="50"/>
+        <img style="padding:10px" src = "https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress"  height="50"/>
     </a>
     <a href="https://flutter.dev/">
         <img style="padding:10px" src = "https://www.kindpng.com/picc/m/355-3557482_flutter-logo-png-transparent-png.png" height="50"/>
